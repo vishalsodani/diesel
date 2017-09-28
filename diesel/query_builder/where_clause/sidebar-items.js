@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["NoWhereClause",""],["WhereClause",""]],"trait":[["ValidWhereClause","Marker trait indicating that a `WHERE` clause is valid for a given query source."],["WhereAnd",""]]});
